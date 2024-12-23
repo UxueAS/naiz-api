@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/UxueAS/naiz-api#readme",
   "dependencies": {
-    "@mockoon/serverless": "^9.1.0"
+    "@mockoon/serverless": "^9.1.0",
+    "express": "^4.21.2"
   }
 }
