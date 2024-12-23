@@ -4,7 +4,7 @@
   "name": "Naiz",
   "endpointPrefix": "api",
   "latency": 0,
-  "port": 80,
+  "port": 3001,
   "hostname": "",
   "folders": [],
   "routes": [

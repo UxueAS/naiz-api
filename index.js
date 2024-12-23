@@ -5,4 +5,4 @@ const mockEnv = require('./naiz.json');
 
 const app = new mockoon.MockoonServerless(mockEnv);
 
-module.exports = app;
+exports.handler = app;
